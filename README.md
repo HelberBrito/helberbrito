@@ -1,10 +1,4 @@
-<div align='center'>
-  
-  # Oi, eu sou o HB 🐻
-
-</div>
-
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Oi,%20eu%20o%20HB%20🐻&fontSize=40" />
 
 <div align='center'>
   
