@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Oi,%20eu%20o%20HB%20🐻&fontSize=40" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Oi,%20eu%20sou%20o%20HB%20🐻&fontSize=40" />
 
 <div align='center'>
   
