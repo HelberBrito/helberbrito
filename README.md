@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align='center'>
+  
+  # Oi, eu sou o HB 🐻
 
-<!--
-**HelberBrito/helberbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
+  
+  `✨ const INITIAL_STATE = { married: true } ✨`<br><br> 🔭 Atualmente estudo desenvolvimento web na @Trybe. <br><br> 🌱 Aprendendo back-end. <br><br> 💬 Pergunte-me sobre a vida. ✨Gosto de conversar✨ <br><br> 😄 Pronouns: ele/dele <br><br> 🔥 Filosofando: "Quando não houver solução; deixe o hipopótamo afundar!" <br><br>    | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helberbrito&count_private=true&show_icons=true&theme=merko)
+:--- | ---
+
+</div>
+
+***
