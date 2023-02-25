@@ -2,7 +2,7 @@
 
 <div align='center'>
   
-  <br> `✨ const INITIAL_STATE = { married: true } ✨`<br><br> 🔭 Atualmente estudo desenvolvimento web na @Trybe. <br><br> 🌱 Aprendendo back-end. <br><br> 💬 Pergunte-me sobre a vida. ✨Gosto de conversar✨ <br><br> 😄 Pronouns: ele/dele <br><br> 🔥 Filosofando: "Quando não houver solução; deixe o hipopótamo afundar!" <br><br>    | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helberbrito&count_private=true&show_icons=true&theme=merko)
+  <br> `✨ const INITIAL_STATE = { married: true } ✨`<br><br> 🔭 Atualmente estudo desenvolvimento web na @Trybe. <br><br> 🌱 Aprendendo back-end na [Trybe](https://www.betrybe.com/) e UX Design na [UX Unicórnio](https://uxunicornio.com.br/2023/). <br><br> 💬 Pergunte-me sobre a vida. ✨Gosto de conversar✨ <br><br> 😄 Pronouns: ele / dele <br><br> 🔥 Filosofando: "Quando não houver solução; deixe o hipopótamo afundar!" <br><br>    | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helberbrito&count_private=true&show_icons=true&theme=merko)
 :--- | ---
 
 </div>
@@ -11,20 +11,67 @@
 
 ## Afinidades tecnológicas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?sytle=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?sytle=flat&logo=Node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?sytle=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?sytle=flat&logo=CSS3)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?sytle=flat&logo=React)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?sytle=flat&logo=React)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?sytle=flat&logo=Redux)&nbsp;
-![React Router](https://img.shields.io/badge/-React%20Router-05122A?sytle=flat&logo=ReactRouter)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?sytle=flat&logo=Git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?sytle=flat&logo=GitHub)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?sytle=flat&logo=Markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?sytle=flat&logo=VisualStudioCode)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?sytle=flat&logo=Linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?sytle=flat&logo=Windows)&nbsp;
-![LottieFiles](https://img.shields.io/badge/-LottieFiles-05122A?sytle=flat&logo=letterboxd)&nbsp;
+<div>
+  
+* Fundamentos 
+
+  <p>
+
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white" style="margin-bottom: 4px;" height="30px">
+
+  </p>
+  
+</div>
+
+<div>
+  
+* TDD - Testes
+
+  <p>
+    
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    
+  </p>
+  
+</div> 
+
+<div>
+  
+* Front-end 
+
+  <p>
+    
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" style="margin-bottom: 4px;" height="30px">
+
+  </p>
+  
+</div> 
+
+<div>
+  
+* Metodologias Ágeis
+
+  <p>
+    
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="30px">
+
+  </p>
+  
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=" />
