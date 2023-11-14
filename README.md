@@ -1,6 +1,4 @@
-<div>
-  <h1>Visite meu</h1>&nbsp<a href='https://helberbrito.github.io/'>portifolio</a>
-</div>
+<h1>Visite meu</h1>&nbsp<a href='https://helberbrito.github.io/'>portifolio</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=devHB&fontSize=40&animation=twinkling" />
 
