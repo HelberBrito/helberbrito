@@ -2,7 +2,10 @@
 
 <div align='left'>
   
-  <br> `✨ const INITIAL_STATE = { married: true } ✨`<br><br> 🔭 Estudo desenvolvimento web na [@Trybe](https://www.betrybe.com/). <br><br> 💬 Pergunte-me sobre a vida. <br><br> 🔥 Filosofando: "Nninguém está vendo você se dedicar. A plateia não assiste ao ensaio, somente o show!
+  `✨ const INITIAL_STATE = { married: true } ✨`
+  <br><br> 🔭 Estudo desenvolvimento web na [@Trybe](https://www.betrybe.com/).
+  <br><br> 💬 Pergunte-me sobre a vida.
+  <br><br> 🔥 Filosofando: "Nninguém está vendo você se dedicar. A plateia não assiste ao ensaio, somente o show!
 
 </div>
 
