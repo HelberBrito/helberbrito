@@ -2,7 +2,7 @@
 
 <div align='center'>
   
-  <br> `✨ const INITIAL_STATE = { married: true } ✨`<br><br> 🔭 Estudo desenvolvimento web na [@Trybe](https://www.betrybe.com/) e UX Design na [UX Unicórnio](https://uxunicornio.com.br/2023/). <br><br> 💬 Pergunte-me sobre a vida. 🔥 Filosofando: "Quando não houver solução; deixe o hipopótamo afundar!"
+  <br> `✨ const INITIAL_STATE = { married: true } ✨`<br><br> 🔭 Estudo desenvolvimento web na [@Trybe](https://www.betrybe.com/). <br><br> 💬 Pergunte-me sobre a vida. <br><br> 🔥 Filosofando: "Nninguém está vendo você se dedicar. A plateia não assiste ao ensaio, somente o show!"
 :--- | ---
 
 </div>
@@ -13,7 +13,7 @@
 
 <div>
   
-* Fundamentos 
+* Frontend 
 
   <p>
 
@@ -34,7 +34,7 @@
 
 <div>
   
-* TDD - Testes
+* Testes
 
   <p>
     
@@ -47,7 +47,7 @@
 
 <div>
   
-* Front-end 
+* Backend
 
   <p>
     
