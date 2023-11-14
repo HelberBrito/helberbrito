@@ -1,4 +1,4 @@
-Visite meu <a href="helberbrito.github.io" underline=false target="_blank">portifolio</a>
+Visite meu <a href="https://helberbrito.github.io" text-decoration="none" target="_blank">portifolio</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=devHB&fontSize=40&animation=twinkling" />
 
