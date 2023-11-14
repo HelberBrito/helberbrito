@@ -2,8 +2,6 @@
   <h1>Visite meu&nbsp
     <a href='https://helberbrito.github.io/'>portifolio</a>
   </h1>
-  
-  <br><br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=devHB&fontSize=40&animation=twinkling" />
