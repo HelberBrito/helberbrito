@@ -1,5 +1,6 @@
-<div display='flex'>
-  <h1>Visite</h1> <a margin-left='4px' href:'https://helberbrito.github.io/'>https://helberbrito.github.io/</a>
+<div>
+  <h1>Visite meu&nbsp</h1>
+  <a href='https://helberbrito.github.io/'>portifolio</a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=devHB&fontSize=40&animation=twinkling" />
