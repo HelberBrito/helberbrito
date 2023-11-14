@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=devHB&fontSize=40&animation=twinkling" />
 
-<div align='center'>
+<div align='left'>
   
-  <br> `✨ const INITIAL_STATE = { married: true } ✨`<br><br> 🔭 Estudo desenvolvimento web na [@Trybe](https://www.betrybe.com/). <br><br> 💬 Pergunte-me sobre a vida. <br><br> 🔥 Filosofando: "Nninguém está vendo você se dedicar. A plateia não assiste ao ensaio, somente o show!"
-:--- | ---
+  <br> `✨ const INITIAL_STATE = { married: true } ✨`<br><br> 🔭 Estudo desenvolvimento web na [@Trybe](https://www.betrybe.com/). <br><br> 💬 Pergunte-me sobre a vida. <br><br> 🔥 Filosofando: "Nninguém está vendo você se dedicar. A plateia não assiste ao ensaio, somente o show!
 
 </div>
 
