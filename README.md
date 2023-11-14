@@ -47,7 +47,7 @@ Visite meu <a href="https://helberbrito.github.io">portifolio</a>
 
 <div>
   
-* Frontend 
+* Backend 
 
   <p>
 
@@ -69,7 +69,7 @@ Visite meu <a href="https://helberbrito.github.io">portifolio</a>
 
 <div>
   
-* Backend
+* Frontend
 
   <p>
     
