@@ -15,6 +15,20 @@
 
 <div>
   
+* Metodologias Ágeis
+
+  <p>
+    
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="30px">
+
+  </p>
+  
+</div>
+
+<div>
+  
 * Frontend 
 
   <p>
@@ -61,19 +75,5 @@
   </p>
   
 </div> 
-
-<div>
-  
-* Metodologias Ágeis
-
-  <p>
-    
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 4px;" height="30px">
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" style="margin-bottom: 4px;" height="30px">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="30px">
-
-  </p>
-  
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=" />
