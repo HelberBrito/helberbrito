@@ -1,4 +1,4 @@
-Visite meu [portifolio ](https://helberbrito.github.io/){:taget="_blank"}
+Visite meu [portifolio ](https://helberbrito.github.io/){taget="blank"}
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=devHB&fontSize=40&animation=twinkling" />
 
