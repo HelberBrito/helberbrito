@@ -1,11 +1,20 @@
-Visite meu&nbsp; <a href="https://helberbrito.github.io">portifolio</a>
+<div align='center'>
+
+# "Ninguém está vendo você se dedicar.<br> A plateia não assiste ao ensaio;<br> somente o show!"
+
+</div>
+
+<br>
+
 
 <div align='left'>
   
-  `✨ const INITIAL_STATE = { married: true } ✨`
-  <br><br> 🔭 Estudo desenvolvimento web na [@Trybe](https://www.betrybe.com/).
-  <br><br> 💬 Pergunte-me sobre a vida.
-  <br><br> 🔥 Filosofando: "Nninguém está vendo você se dedicar. A plateia não assiste ao ensaio, somente o show!
+    const INITIAL_STATE = { married: true }
+    🐻💞🐼
+
+Visite meu&nbsp; <a href="https://helberbrito.github.io">portifolio</a>
+
+🔭 Estudo desenvolvimento web na [@Trybe](https://www.betrybe.com/).
 
 </div>
 
@@ -66,15 +75,20 @@ Visite meu&nbsp; <a href="https://helberbrito.github.io">portifolio</a>
 <div>
   
 * Backend 
-
-  <p>
     
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">&nbsp;
-    <img src="https://img.shields.io/badge/Express-fff?style=for-the-badge&logo=Express&logoColor=000" style="margin-bottom: 4px;" height="30px">&nbsp;
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">&nbsp;
-
-  </p>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">&nbsp;
+  <img src="https://img.shields.io/badge/Express-fff?style=for-the-badge&logo=Express&logoColor=000" style="margin-bottom: 4px;" height="30px">&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">&nbsp;
   
+</div>
+
+<div>
+
+* Data Base
+
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
 </div>
 
 
@@ -97,6 +111,7 @@ Visite meu&nbsp; <a href="https://helberbrito.github.io">portifolio</a>
 
   ![Github Pages](https://img.shields.io/badge/github_pages-121013?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 
 <div>
   
