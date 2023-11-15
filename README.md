@@ -3,7 +3,7 @@
   <h1>
     "Ninguém está vendo você se dedicar.<br>
     A plateia não assiste ao ensaio;<br>
-    somente o show!"
+    somente o show!"<br><br>
   </h1>
 
 </div>
