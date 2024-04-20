@@ -20,7 +20,7 @@ Visite meu&nbsp; <a href="https://helberbrito.github.io">portifolio</a>
 
 Desenvolvedor Full Stack Web e Android<br>
 Proficiência  em TypeScript e Kotlin<br>
-Cursei Desenvolvimento de Software na [@Trybe](https://www.betrybe.com/).
+Cursei Desenvolvimento de Software na [Trybe](https://www.betrybe.com/)
 
 </div>
 
